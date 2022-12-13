@@ -20,6 +20,17 @@
   display: flex;
   flex-direction: column;
   justify-content: space-around;
+  border-radius: 8px;
+  box-shadow: 2px 2px 5px #3195f3;
+}
+.title__container {
+  margin-bottom: 50px;
+}
+#underline {
+  text-align: center;
+  margin: 0 auto;
+  width: 100px;
+  height: 20px;
 }
 .image__container {
   position: relative;
@@ -40,7 +51,6 @@
   height: 35px;
   z-index: 2;
   left: calc(50% - 60px);
-  top: 10px
 }
 .text__container {
   width: 80%;
@@ -54,7 +64,7 @@
 .author {
   margin-top: 70px;
 }
-.profession{
+.job{
   color: #3195f3;
   font-size: small;
   font-style: italic;
@@ -63,14 +73,37 @@
 .author__review {
   text-align: center;
 }
-.previous {
-  width: 20px;
-  height: 20px;
-}
-.next {
-  width: 20px;
-  height: 20px;
-}
 .button__container {
   margin: 0 auto;
+  text-align: center;
+  padding: 4px;
+}
+.previous {
+  cursor: pointer;
+  width: 25px;
+  height: 25px;
+  border-style: none;
+  background-color: white;
+}
+.next {
+  cursor: pointer;
+  width: 25px;
+  height: 25px;
+  border-style: none;
+  background-color: white;
+}
+.random {
+  cursor: pointer;
+  font-family: 'Roboto', sans-serif;
+  font-size: 14px;
+  width: 125px;
+  height: 25px;
+  border-radius: 8px;
+  background-color: white;
+  border: 2px solid #3195f3;
+}
+.random:hover {
+  color: white;
+  background-color: #3195f3;
+  border: 2px solid white;
 }
