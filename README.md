@@ -1,8 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/othneildrew/Best-README-Template">  
   </a>
 
   <h3 align="center">Review carousel</h3>
@@ -101,9 +100,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Cristhian Salas - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Cristhian Salas - [@thecristhian420](https://twitter.com/thecristhian420) - crithian.sm@hotmail.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/cristhian420/review-carousel](https://github.com/cristhian420/review-carousel])
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
